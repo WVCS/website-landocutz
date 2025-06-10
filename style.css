@@ -1,7 +1,7 @@
 nav {
   list-style-type: none;
   width: 100%;
-  background-color: #890;
+  background-color: #386;
   top: 0;
   left: 0;
   position: fixed;
@@ -16,16 +16,16 @@ li a{
 }
 
 li a:hover {
-  background-color: pink;
+  background-color: purple;
   color: black;
 }
 
 body {
 h2{
-  color: lightblue;
+  color: green;
   text-shadow: 2px 1px; 
   text-decoration-line: underline;
-  text-decoration-color: green;
+  text-decoration-color: blue;
   text-decoration-style: dotted;
   font-family: "Lucida Console", "Courier New", monospace;
 }
@@ -36,7 +36,7 @@ img:hover {
   padding: 5px;
   width: 400px;
  }
-  background-color: #788521;
+  background-color: #794654;
   }
 body {
 
